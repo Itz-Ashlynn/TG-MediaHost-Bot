@@ -1,0 +1,28 @@
+{
+  "name": "AR Hosting",
+  "short_name": "ARHost",
+  "description": "Free, fast, and secure media hosting with Telegram integration.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#3b82f6",
+  "orientation": "any",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Itz-Ashlynn/TG-MediaHost-Bot/main/Images/ar-hosting.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Itz-Ashlynn/TG-MediaHost-Bot/main/Images/ar-hosting.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en",
+  "categories": ["productivity", "utilities", "media", "cloud", "tools"],
+  "start_url": "/?source=pwa",
+  "display_override": ["standalone", "browser"],
+  "prefer_related_applications": false
+} 
